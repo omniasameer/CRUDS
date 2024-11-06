@@ -42,5 +42,5 @@ The Product Management System allows users to:
 ## Getting Started
 
 1. **Repo**:
-2. https://omniasameer.github.io/50Days_50Projects/CardSwipper/
+https://omniasameer.github.io/CRUDS/
   
