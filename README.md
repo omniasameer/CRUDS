@@ -41,6 +41,6 @@ The Product Management System allows users to:
 
 ## Getting Started
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/omniasameer/CRUProject.git
+1. **Repo**:
+2. https://omniasameer.github.io/50Days_50Projects/CardSwipper/
+  
